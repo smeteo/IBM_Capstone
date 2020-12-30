@@ -27,6 +27,8 @@ Using Foursquare API, venues will be collected by each district.
 The most common types of restaurants will be identified for each location. District latitude and longitude data will be used in order to get venue information. 
 For each venue distance center, category, popularity and venue category feature will be taken into consideration.
 
+<img src='Clusters.png'>
+
 ### Methodology
 
 	Web scraping, Identifying the neighbourhoods in central London  
@@ -37,7 +39,8 @@ For each venue distance center, category, popularity and venue category feature 
 	Applying K-Means Clustering machine learning techniques.  
 	Analyzing each neighbourhood and the most common restaurant type  
 	Reporting the results and making recommendations.  
-  
+
+<img src='Restaurants.png'>
   
 ### Results
 	According to number of restaurants for each location, Farringdon, St. Luke's are best places since they have least number of restaurants.     
