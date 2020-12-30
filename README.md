@@ -44,3 +44,10 @@ For each venue distance center, category, popularity and venue category feature 
 	However Italian, French  and Spanish restaurants are among the most frequent in those places. Since the investor wants to open a Mediterranean restaurant, it wouldn't be profitable to start business in a competitive area. Looking at those locations closely, King's Cross is the only location that has no French, Italian, Spanish, Turkish restaurant which are parts of Mediterranean cuisine.    
 	Looking at those locations closely, King's Cross is the only location that has no French, Italian, Spanish, Turkish restaurant which are parts of Mediterranean cuisine.   
 	**As a conclusion, King's Cross would be the best location to start a Mediterranean Restaurant business since it is among the least that has total number of restaurant and doesn't have Mediterranean restaurants in most commons.**
+
+
+### References
+http://www.worldcitiescultureforum.com/data/number-of-restaurants-per-100.000-population   
+https://en.wikipedia.org/wiki/List_of_areas_of_London  
+https://developer.foursquare.com/developer/   
+  
